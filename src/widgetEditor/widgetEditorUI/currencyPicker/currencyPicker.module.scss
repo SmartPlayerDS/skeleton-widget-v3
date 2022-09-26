@@ -1,0 +1,23 @@
+.currencyPair{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+
+  &>div{
+    width: 42% !important;
+  }
+}
+
+.overlay{
+  position: relative;
+  z-index: 2;
+  background-color: #FFFFFF;
+}
+
+.fakeField{
+  border-radius: 5px;
+  border: 1px solid #F0F0F0;
+  text-align: center;
+  padding: 5px 10px;
+  font-size: 0;
+}

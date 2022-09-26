@@ -1,0 +1,308 @@
+{
+    "save": {
+        "ru": "Сохранить",
+        "en": "Save",
+        "pt": "Salvar",
+        "es": "Salvar"
+    },
+    "saveSettings": {
+        "ru": "Применить настройки",
+        "en": "Save settings",
+        "pt": "Aplicar configurações",
+        "es": "Aplicar configuraciones"
+    },
+    "delete": {
+        "ru": "Удалить",
+        "en": "Delete",
+        "pt": "Excluir",
+        "es": "Borrar"
+    },
+    "edit": {
+        "ru": "Редактировать",
+        "en": "Edit",
+        "pt": "Editar",
+        "es": "Editar"
+    },
+    "widgetEditorTitle": {
+        "ru": "Настройки виджета",
+        "en": "Widget settings",
+        "pt": "Configurações do widget",
+        "es": "Configuración de widgets"
+    },
+    "selectLanguage": {
+        "ru": "Выберите язык",
+        "en": "Select language",
+        "pt": "Escolha o seu idioma",
+        "es": "Elige lengua"
+    },
+    "selectValue": {
+        "ru": "Выберите значение",
+        "en": "Select value",
+        "pt": "Escolha um valor",
+        "es": "Elige un valor"
+    },
+    "selectFolder": {
+        "ru": "Выберите папку",
+        "en": "Select folder",
+        "pt": "Escolha uma pasta",
+        "es": "Elige una carpeta"
+    },
+    "selectImage": {
+        "ru": "Выберите изображение",
+        "en": "Select image",
+        "pt": "Escolha uma imagem",
+        "es": "Elige una imagen"
+    },
+    "defaultValue": {
+        "ru": "Значение по-умолчанию",
+        "en": "Default value",
+        "pt": "Valor padrão",
+        "es": "Valor por defecto"
+    },
+    "companyName": {
+        "ru": "Название компании",
+        "en": "Company name",
+        "pt": "O nome da empresa",
+        "es": "El nombre de la compañía"
+    },
+    "image": {
+        "ru": "Изображение",
+        "en": "Image",
+        "pt": "Imagem",
+        "es": "Imagen"
+    },
+    "images": {
+        "ru": "Изображениея",
+        "en": "Images",
+        "pt": "Imagens",
+        "es": "Imágenes"
+    },
+    "video": {
+        "ru": "Видео",
+        "en": "Video",
+        "pt": "Vídeo",
+        "es": "Video"
+    },
+    "selected": {
+        "ru": "Выбрано",
+        "en": "Selected",
+        "pt": "Selecionado",
+        "es": "Seleccionado"
+    },
+    "media": {
+        "ru": "медиа",
+        "en": "media",
+        "pt": "Meios de comunicação",
+        "es": "Medios de comunicación"
+    },
+    "selectVideo": {
+        "ru": "Выбрать видео",
+        "en": "Select video",
+        "pt": "Selecionar vídeo",
+        "es": "Seleccionar vídeo"
+    },
+    "cantDeleteLastItem": {
+        "ru": "Невозможно удалить последний элемент",
+        "en": "Can't delete last item",
+        "pt": "Não é possível remover o último elemento",
+        "es": "No se puede eliminar el último elemento"
+    },
+    "prevItem": {
+        "ru": "Предыдущий элемент",
+        "en": "Previous item",
+        "pt": "Elemento anterior",
+        "es": "Elemento anterior"
+    },
+    "nextItem": {
+        "ru": "Следующий элемент",
+        "en": "Next item",
+        "pt": "Próximo elemento",
+        "es": "Siguiente elemento"
+    },
+    "addAfter": {
+        "ru": "Добавить следом",
+        "en": "Add after",
+        "pt": "Adicionar próximo",
+        "es": "Agregar siguiente"
+    },
+    "helloWorld": {
+        "ru": "Привет Мир",
+        "en": "Hello World",
+        "pt": "Olá Mundo",
+        "es": "Hola Mundo"
+    },
+    "film": {
+        "ru": "Фильм",
+        "en": "Film",
+        "pt": "Filme",
+        "es": "Película"
+    },
+    "music": {
+        "ru": "Музыка",
+        "en": "Music",
+        "pt": "Música",
+        "es": "Música"
+    },
+    "connectionError": {
+        "ru": "Нет связи",
+        "en": "No connect",
+        "pt": "Sem conexão",
+        "es": "Sin conexión"
+    },
+    "column": {
+        "ru": "Колонка",
+        "en": "Column",
+        "pt": "Coluna",
+        "es": "Columna"
+    },
+    "settingsView": {
+        "ru": "Вид отображения настроек",
+        "en": "Settings view",
+        "pt": "Visualização de exibição de configurações",
+        "es": "Vista de visualización de ajustes"
+    },
+    "horizontal": {
+        "ru": "Горизонтальный",
+        "en": "Horizontal",
+        "pt": "Horizontal",
+        "es": "Horizontal"
+    },
+    "vertical": {
+        "ru": "Вертикальный",
+        "en": "Vertical",
+        "pt": "Vertical",
+        "es": "Vertical"
+    },
+    "authenticationScreen": {
+        "ru": "Экран авторизации",
+        "en": "Authentication screen",
+        "pt": "Tela de login",
+        "es": "Pantalla de ingreso al sistema"
+    },
+    "login": {
+        "ru": "Войти",
+        "en": "Login",
+        "pt": "Entrar",
+        "es": "Entrar"
+    },
+    "pinCodeError": {
+        "ru": "Неверный пин-код",
+        "en": "Wrong pin-code",
+        "pt": "PIN inválido",
+        "es": "PIN no válido"
+    },
+    "selectAudio": {
+        "ru": "Выбрать аудио",
+        "en": "Select audio",
+        "pt": "Selecionar áudio",
+        "es": "Seleccionar sonido"
+    },
+    "audio": {
+        "ru": "Аудио",
+        "en": "Audio",
+        "pt": "Áudio",
+        "es": "Audio"
+    },
+    "editableText": {
+        "ru": "Стилизованный текст",
+        "en": "Styling text",
+        "pt": "Texto estilizado",
+        "es": "Texto estilizado"
+    },
+    "closeEditor": {
+        "ru": "Закрыть редактор",
+        "en": "Close editor",
+        "pt": "Fechar editor",
+        "es": "Cerrar editor"
+    },
+    "uploadFileSettings": {
+        "ru": "Загрузить файл настроек",
+        "en": "Upload file settings",
+        "es": "Cargar el archivo de configuración",
+        "pt": "Carregar ficheiro de configurações"
+    },
+    "downloadFileSettings": {
+      "ru": "Скачать файл настроек",
+      "en": "Download file settings",
+      "es": "Descargar el archivo de configuración",
+      "pt": "Baixar ficheiro de configurações"
+    },
+    "changeSelection": {
+        "ru": "Изменить выбор",
+        "en": "Change selection",
+        "es": "Cambiar selección",
+        "pt": "Alterar seleção"
+    },
+    "selectImages": {
+        "ru": "Выберите изображения",
+        "en": "Select images",
+        "es": "Seleccionar imágenes",
+        "pt": "Selecionar imagens"
+    },
+    "selectVideoFolder": {
+        "ru": "Выборать папку с видео",
+        "en": "Select folder with video",
+        "es": "Seleccionar carpeta de videos",
+        "pt": "Selecione a pasta de vídeo"
+    },
+    "videoGroup": {
+        "ru": "Группа видео",
+        "en": "Video group",
+        "es": "Grupo de vídeo",
+        "pt": "Grupo de vídeos"
+    },
+    "mixedContent": {
+        "ru": "Смешанный контент",
+        "en": "Mixed content",
+        "es": "Contenido mixto",
+        "pt": "Conteúdo misto"
+    },
+    "audios": {
+        "ru": "Группа аудио",
+        "en": "Audio group",
+        "es": "grupo de audio",
+        "pt": "Grupo de áudio"
+    },
+    "reset": {
+        "ru": "Сбросить",
+        "en": "Reset",
+        "es": "Reiniciar",
+        "pt": "Redefinir"
+    },
+    "widgetColor": {
+        "ru": "Фон виджета",
+        "en": "Widget background",
+        "es": "Fondo de widget",
+        "pt": "Plano de fundo do widget"
+    },
+    "birthday": {
+        "ru": "Дата рождения",
+        "en": "Date of Birth",
+        "es": "Fecha de nacimiento",
+        "pt": "Data de nascimento"
+    },
+    "someNumber": {
+        "ru": "Числовое поле",
+        "en": "Numeric field",
+        "es": "Campo numérico",
+        "pt": "Campo numérico"
+    },
+    "currency": {
+        "ru": "Валюта",
+        "en": "Currency",
+        "es": "Divisa",
+        "pt": "Moeda"
+    },
+    "widgetFontSizeAndBackgroundColor": {
+        "ru": "Размер шрифта и фон виджета",
+        "en": "Widget font size and background",
+        "es": "Tamaño de fuente y fondo del widget",
+        "pt": "Tamanho da fonte e plano de fundo do widget"
+    },
+    "widgetFontSize": {
+        "ru": "Размер шрифта виджета",
+        "en": "Widget font size",
+        "es": "Tamaño de fuente del widget",
+        "pt": "Tamanho da fonte do widget"
+    }
+}

@@ -1,0 +1,33 @@
+
+.multiselectOptionsWrapper {
+    background: #FFFFFF;
+    padding: 5px;
+    border: 1px solid #F0F0F0;
+    max-height: 100px;
+    overflow-y: scroll;
+    border-radius: 5px;
+}
+
+.multiselectWrapper {
+    margin-bottom: 14px;
+    margin-top: 8px;
+}
+
+.multiselect {
+
+}
+
+.multiselectOptions {
+    min-height: 28.4px;
+}
+
+.multiselectOption {
+    padding: 5px;
+    cursor: pointer;
+}
+
+.multiselectOptionActive {
+    background: #BDBDBD;
+    color: #fff
+}
+
