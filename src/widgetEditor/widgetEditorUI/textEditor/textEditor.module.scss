@@ -1,0 +1,86 @@
+.preview {
+  width: 100%;
+  border: 1px solid #F0F0F0;
+  border-radius: 5px !important;
+  padding: 10px !important;
+  margin-bottom: 8px;
+  min-height: 38px;
+  max-height: 200px;
+  overflow: auto;
+  cursor: pointer;
+
+  &::-webkit-scrollbar {
+    border-radius: 10px;
+    width: 6px;
+    background: transparent;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    width: 6px;
+    background: #b3b3b3;
+  }
+}
+
+.modalEditor {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: #ffffff;
+  z-index: 1000000;
+}
+
+.modalContent {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.button {
+  cursor: pointer;
+  display: inline-block;
+  font-size: 14px;
+  background: #FFFFFF;
+  border: 1px solid #F3F3F3;
+  box-shadow: 0 4px 4px rgba(133, 133, 133, 0.25);
+  border-radius: 17px;
+  padding: 10px 14px;
+  color: #B4B4B4;
+  margin-right: 24px;
+}
+
+.wrapper {
+  width: 600px;
+  margin-bottom: 30px;
+}
+
+.toolbar {
+  border: 1px solid #BDBDBD !important;
+}
+
+.editor {
+  min-height: 300px;
+  max-height: 300px;
+  padding: 10px;
+  border: 1px solid #BDBDBD;
+
+  &::-webkit-scrollbar {
+    border-radius: 10px;
+    width: 6px;
+    background: transparent;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    width: 6px;
+    background: #b3b3b3;
+  }
+
+  div[class~="public-DraftStyleDefault-block"] {
+    margin: 0 !important;
+  }
+}

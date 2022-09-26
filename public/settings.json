@@ -1,0 +1,36 @@
+{
+    "settings": {
+        "type": "skeleton-widget-v3",
+        "localisation": "ru",
+        "settingsView": "column",
+        "setting1": "5",
+        "setting2": true,
+        "setting3": 10,
+        "setting4": [],
+        "setting5": {},
+        "titleColor": "",
+        "someNumber": 1,
+        "myPictures": [],
+        "myVideo": [],
+        "myVideos": [],
+        "myPicture": [],
+        "fileFolder": [],
+        "myAudio": [],
+        "myAudios": [],
+        "film": "id1",
+        "currency": [
+            {
+                "id": 1,
+                "from": "USD",
+                "to": "EUR"
+            },
+            {
+                "id": 2,
+                "from": "USD",
+                "to": "KZT"
+            }
+        ],
+        "widgetBackgroundColor": "rgba(255,255,255, 1)",
+        "widgetFontSize": 16
+    }
+}

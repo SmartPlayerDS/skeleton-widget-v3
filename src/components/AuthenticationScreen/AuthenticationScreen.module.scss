@@ -1,0 +1,74 @@
+.AuthenticationScreen {
+    &__button {
+        position: absolute;
+        top: 20px;
+        right: 200px;
+        width: 120px;
+        padding: 20px;
+        border-radius: 100%;
+        background-color: #fff;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        z-index: 10000000;
+
+        img {
+            width: 100%;
+        }
+    }
+
+    &__modal {
+        z-index: 10000001;
+    }
+    
+    &__submit {
+        cursor: pointer;
+        display: inline-block;
+        font-size: 14px;
+        background: #FFFFFF;
+        border: 1px solid #F3F3F3;
+        box-shadow: 0 4px 4px rgba(133, 133, 133, 0.25);
+        border-radius: 17px;
+        padding: 10px 14px;
+        color: #B4B4B4;
+        margin-right: 24px;
+    
+        &:hover {
+            opacity: .6;
+        }
+    
+        &:active {
+            opacity: .9;
+        }
+    }
+
+    &__form {
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    &__input {
+        width: 100%;
+        max-width: 300px;
+        border: 1px solid #BDBDBD !important;
+        border-radius: 5px !important;
+        padding: 10px !important;
+        margin-bottom: 8px;
+    
+        &:disabled {
+            background: #E0E0E0;
+            opacity: 0.4;
+        }
+    }
+
+    &__error {
+        color: red;
+    }
+
+    &__content {
+        height: 100%;
+    }
+}
