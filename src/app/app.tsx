@@ -9,7 +9,7 @@ import {Auth} from '../models/Auth';
 import {Localisation} from "../models/localisation";
 import {MediaFileData} from '../models/MediaFileData';
 import {AuthenticationScreen} from '../components/AuthenticationScreen';
-import {WidgetEditor, WidgetOptionsEditor, getQueryStringValue} from 'h01_test'
+import {WidgetEditor, WidgetOptionsEditor, getQueryStringValue} from 'sp_widget_editor'
 import settingsIcon from './images/settings.svg'
 import download_icon from './images/download.svg'
 import upload_icon from './images/upload.svg'
